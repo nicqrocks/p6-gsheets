@@ -2,7 +2,7 @@
 
 Use the Google Sheets API with Perl6
 
-![Build status](https://travis-ci.org/nicqrocks/p6-gsheets.svg?branch=master)
+[![Build status](https://travis-ci.org/nicqrocks/p6-gsheets.svg?branch=master)](https://travis-ci.org/nicqrocks/p6-gsheets)
 
 
 ## Requirements
