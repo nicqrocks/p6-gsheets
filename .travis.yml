@@ -3,8 +3,8 @@ language: perl6
 sudo: false
 
 perl6:
-	- latest
+ - latest
 
 install:
-	- rakudobrew build-zef
-	- zef --debug --deps-only install .
+ - rakudobrew build-zef
+ - zef --debug --deps-only install .
