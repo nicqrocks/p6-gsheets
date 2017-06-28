@@ -11,16 +11,16 @@
     "auth": "github:nicqrocks",
     "excludes": {},
     "superseded-by": {},
-    "depends": [
-        "JSON::Fast"
-    ],
+    "depends": [],
     "tags": [
         "web",
         "google",
         "api"
     ],
     "license": "Artistic-2.0",
-    "test-depends": [],
+    "test-depends": [
+    	"Test::META"
+    ],
     "provides": {
         "GSheet": "lib/GSheet.pm6"
     },

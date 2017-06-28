@@ -5,6 +5,6 @@ use Test;
 use lib 'lib';
 plan 1;
 
-use-ok WebService::Google::Sheets;
+use-ok 'GSheet';
 
 done-testing;
