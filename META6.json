@@ -16,12 +16,13 @@
     ],
     "tags": [
         "web",
-        "google"
+        "google",
+        "api"
     ],
     "license": "Artistic-2.0",
     "test-depends": [],
     "provides": {
-        "WebService::Google::Sheets": "lib/WebService/Google/Sheets.pm6"
+        "GSheet": "lib/GSheet.pm6"
     },
     "version": "0.0.1",
     "supersedes": {},
